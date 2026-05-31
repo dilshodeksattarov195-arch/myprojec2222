@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuecrypt",
+        "uuid": 1408748,
+        "checksum": "7vrmq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
